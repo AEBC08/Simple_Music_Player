@@ -1,0 +1,2 @@
+# Simple_Music_Player
+一个使用Python制作的小项目，简单的音乐播放器，支持播放音乐时打印歌词
